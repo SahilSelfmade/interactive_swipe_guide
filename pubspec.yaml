@@ -1,7 +1,7 @@
 name: interactive_swipe_guide
-description: "A new Flutter package project."
+description: "Package for creating swipe-driven onboarding or tutorial overlays in Flutter. (For tinder like dating apps that require swiping left, right, up, and down)"
 version: 0.0.1
-# homepage:
+homepage: https://github.com/SahilSelfmade/interactive_swipe_guide
 environment:
   sdk: ^3.6.1
   flutter: ">=1.17.0"
